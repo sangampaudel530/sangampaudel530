@@ -10,13 +10,13 @@
 
 ### 🛠️ Tech Stack
 - **Programming Languages:** Python, C, C++
-- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Science Tools:** Pandas, Data Visualization
 - **Machine Learning:** Scikit-learn
 - **Version Control:** Git & GitHub
 - **Tools:** Jupyter Notebook, VS Code
 
 ### 📈 GitHub Stats
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangampaudel&show_icons=true&theme=radical)
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangampaudel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My%20Tech%20Stack%20Expertise)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangampaudel&layout=compact&theme=radical)
 
@@ -28,4 +28,3 @@
 
 ---
 ⭐️ Feel free to contribute to my projects or connect with me!
-
