@@ -16,9 +16,9 @@
 - **Tools:** Jupyter Notebook, VS Code
 
 ### 📈 GitHub Stats
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangampaudel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My%20Tech%20Stack%20Expertise)
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangampaudel&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangampaudel&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangampaudel&theme=radical&layout=compact)
 
 ### 📫 Get in Touch
 - **Email:** [sangampaudel530@gmail.com](mailto:sangampaudel530@gmail.com)
