@@ -15,11 +15,6 @@
 - **Version Control:** Git & GitHub
 - **Tools:** Jupyter Notebook, VS Code
 
-### 📈 GitHub Stats
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangampaudel&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangampaudel&theme=radical&layout=compact)
-
 ### 📫 Get in Touch
 - **Email:** [sangampaudel530@gmail.com](mailto:sangampaudel530@gmail.com)
 - **LinkedIn:** [Sangam Paudel](https://www.linkedin.com/in/sangampaudel530)
