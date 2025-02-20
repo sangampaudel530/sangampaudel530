@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 - **Programming Languages:** Python, C, C++
 - **Data Science Tools:** Pandas, Data Visualization
-- **Machine Learning:** Scikit-learn
+- **Machine Learning:** Scikit-learn,TensorFlow,PyTorch
 - **Version Control:** Git & GitHub
 - **Tools:** Jupyter Notebook, VS Code
 
