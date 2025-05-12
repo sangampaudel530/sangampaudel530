@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi there👋, I'm Sangam Paudel!</b></h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sangam-paudel" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/sangampaudel530" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
-    <a href="https://www.kaggle.com/sangampaudel" alt="Kaggle">
+    <a href="https://www.kaggle.com/sangampaudel530" alt="Kaggle">
         <img src="https://img.shields.io/badge/-Kaggle-3a424f?flat-square&logo=Kaggle" /></a>
 </p>
 
