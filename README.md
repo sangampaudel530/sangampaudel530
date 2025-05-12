@@ -10,7 +10,7 @@
 <h2 align="left"><b>A Passionate Data Scientist & Engineer</b></h2>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 👨‍💻 Computer Engineering Student (2nd Year) with a focus on Data Science
+- 👨‍💻 Computer Engineering Student  with a focus on Data Science and Machine Learning
 - 🤖 [2X Kaggle Expert](https://www.kaggle.com/sangampaudel530)
 - ⚡ Developing skills in: `Machine Learning`, `Natural Language Processing`, `Deep Learning`, and `Data Science`
 
@@ -35,32 +35,12 @@
     <img src="https://img.shields.io/badge/-DistilBERT-FF7F00?style=flat-square&logo=Huggingface&logoColor=white" />
 </p>
 
-<h2 align="left">Notable Projects:</h2>
-
-1. **[COVID-19 Exploratory Data Analysis (EDA)](https://www.kaggle.com/sangampaudel)**: A detailed analysis of COVID-19 data with insights on cases, deaths, and recoveries, helping to understand the pandemic's global and regional impact.
-   
-2. **[Nepal Earthquake Dataset](https://www.kaggle.com/sangampaudel)**: A dataset of Nepal's earthquakes from 2015 to 2025, curated for data science enthusiasts and researchers interested in seismic data.
-
-3. **[IMDb Sentiment Analysis using BERT](https://www.kaggle.com/sangampaudel)**: A state-of-the-art sentiment analysis model using BERT (DistilBERT) to analyze and predict movie review sentiments from IMDb data.
-
-4. **[Kaggle Playground Series S5E5 Regression Challenge](https://www.kaggle.com/sangampaudel)**: A project focused on improving regression model accuracy using XGBoost and advanced feature engineering techniques like cross-terms and 5-fold cross-validation.
-
-5. **[Sentiment Analysis Streamlit App](https://github.com/sangampaudel)**: A deployed Streamlit app that uses Selenium to scrape IMDb reviews and classify them using a sentiment analysis model.
-
-<h2 align="left">Tools & Technologies I Use:</h2>
-- **Languages**: Python, SQL
-- **Libraries/Frameworks**: TensorFlow, Keras, Huggingface Transformers, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
-- **Machine Learning/Deep Learning**: XGBoost, LightGBM, Neural Networks, BERT (DistilBERT)
-- **Data Visualization**: Streamlit, Matplotlib, Seaborn
-- **Web Scraping**: Selenium, BeautifulSoup
-- **Cloud/DevOps**: Azure Kubernetes Service (AKS), Docker, GitHub Actions
-
 <h2 align="left">Let's Connect:</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sangam-paudel" target="_blank">
+    <a href="https://www.linkedin.com/in/sangampaudel530" target="_blank">
         <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
     </a>
-    <a href="https://www.kaggle.com/sangampaudel" target="_blank">
+    <a href="https://www.kaggle.com/sangampaudel530" target="_blank">
         <img src="https://img.shields.io/badge/-Explore%20my%20Kaggle%20profile-3a424f?style=flat-square&logo=Kaggle&logoColor=white" />
     </a>
 </p>
