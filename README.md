@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 - 👨‍💻 Computer Engineering Student  with a focus on Data Science and Machine Learning
-- 🤖 [2X Kaggle Expert](https://www.kaggle.com/sangampaudel530)
+- 🤖 [3X Kaggle Expert](https://www.kaggle.com/sangampaudel530)
 - ⚡ Developing skills in: `Machine Learning`, `Natural Language Processing`, `Deep Learning`, and `Data Science`
 
 - 🚀 [My LinkedIn Profile](https://www.linkedin.com/in/sangampaudel530)
